@@ -1,2 +1,2 @@
-# primeiroProjeto
+# Projeto A
 Práticando JS
